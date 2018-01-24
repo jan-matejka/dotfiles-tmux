@@ -4,4 +4,4 @@ build:
 
 install:
 
-	install -m755 .tmux.conf $(HOME)/.tmux.conf
+	install -m644 .tmux.conf $(HOME)/.tmux.conf
